@@ -52,7 +52,7 @@ A full-stack Task Management Web App built with **MERN Stack + Next.js**, featur
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/task-management-system.git
+https://github.com/Talha-Tariq-772/Task-Management-system.git
 cd task-management-system
 ````
 
