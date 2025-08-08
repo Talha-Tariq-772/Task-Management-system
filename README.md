@@ -105,5 +105,5 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 Made by [Talha Tariq](https://github.com/Talha-Tariq-772).
 
-````
+```
 
