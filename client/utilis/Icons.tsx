@@ -1,0 +1,10 @@
+export  const github = <i className="fa-brands fa-github"></i>;
+export  const profile = <i className="fa-solid fa-user"></i>;
+export  const moon = <i className="fa-solid fa-moon"></i>
+export const star = <i className="fa-solid fa-star"></i>;
+export const edit = <i className="fa-solid fa-pen-to-square"></i>;
+export const deleteIcon = <i className="fa-solid fa-trash"></i>;
+export const check = <i className="fa-solid fa-check"></i>;
+export const close = <i className="fa-solid fa-xmark"></i>;
+export const badge = <i className="fa-solid fa-award"></i>;
+export const Email = <i className="fa-solid fa-envelope"></i>;
